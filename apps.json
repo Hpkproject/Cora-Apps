@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cora-browser",
+    "name": "Cora Browser",
+    "author": "The Cora Team",
+    "description": "Browse the web using i-frames, note: if you have the Jnet ext you can connect to it's proxy",
+    "version": "1.0.0",
+    "category": "Internet",
+    "type": "",
+    "icon": "https://hpkproject.github.io/Cora-Apps/apps/cora-browser/icon.png",
+    "launcherIcon": "",
+    "zip": "https://hpkproject.github.io/Cora-Apps/apps/cora-browser/main.zip",
+    "folder": "cora-browser",
+    "entry": "index.html",
+    "size": "93 KB"
+  }
+]
